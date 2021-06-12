@@ -43,11 +43,7 @@ To run **via web**:
 
  ![](./assets/web_example2.png)
  
-
-Example:
-
-
-
 ___
 src2: prototype
+
 src: official (WIP)
