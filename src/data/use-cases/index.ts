@@ -1,0 +1,1 @@
+export * from './compare-company-with-its-pairs-use-case.js';
